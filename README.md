@@ -6,7 +6,6 @@ I'm passionate about building interactive worlds and playful experiences. My jou
 ## 🚀 What I Do
 - **Game Programming**: Designing and developing gameplay, mechanics, and systems.
 - **Unity**: Proficient with C# and Unity for 2D & 3D game development.
-- **OpenGL & C++**: Exploring low-level graphics.
 
 ## 🌟 Featured Project
 
